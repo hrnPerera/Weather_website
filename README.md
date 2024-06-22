@@ -1,0 +1,1 @@
+Hey guys! This is a simple weather website dine by me. So, here are the codes for html, css and the java scripts. And also I added the images that i used. To the urls copy your own paths because I editted that part in this website. So, thank you and good luck!
